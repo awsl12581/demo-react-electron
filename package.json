@@ -24,6 +24,7 @@
     "stylelint-config-tailwindcss": "^0.0.7"
   },
   "devDependencies": {
+    "@iconify/react": "^4.1.1",
     "@playwright/test": "^1.37.1",
     "@types/react": "^18.2.20",
     "@types/react-dom": "^18.2.7",
